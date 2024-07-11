@@ -1,4 +1,4 @@
-# Excel-Project
+# Vrinda Store Annual Report
 Analysis Summary:
   1. Maximum sales happened in March Month.
   2. Women are more likely to buy as compared to Men.
